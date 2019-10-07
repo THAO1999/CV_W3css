@@ -1,0 +1,25 @@
+body{
+	margin: 0;
+	background-color: lightgray;
+}
+.w3-container{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background-color: white;
+	width: 800px;
+	margin-left: 300px;
+}
+.conten h3{
+	font-weight: bold;
+	color: red;
+}
+  a {
+
+	text-decoration: none;
+}
+a:hover {
+	color: red;
+}
+.progres{
+	padding-top: 17px;
+}
